@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fypixels/fypixels-airbnb-app.git/static/css/main.f666ff38.css",
+    "main.js": "/fypixels/fypixels-airbnb-app.git/static/js/main.ccf0f70a.js",
+    "static/js/787.63ac17cb.chunk.js": "/fypixels/fypixels-airbnb-app.git/static/js/787.63ac17cb.chunk.js",
+    "index.html": "/fypixels/fypixels-airbnb-app.git/index.html",
+    "main.f666ff38.css.map": "/fypixels/fypixels-airbnb-app.git/static/css/main.f666ff38.css.map",
+    "main.ccf0f70a.js.map": "/fypixels/fypixels-airbnb-app.git/static/js/main.ccf0f70a.js.map",
+    "787.63ac17cb.chunk.js.map": "/fypixels/fypixels-airbnb-app.git/static/js/787.63ac17cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f666ff38.css",
+    "static/js/main.ccf0f70a.js"
+  ]
+}
